@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 京东云 jdcloud_re-sp-01b
+name: 京东云-默认配置
 
 on:
   repository_dispatch:
